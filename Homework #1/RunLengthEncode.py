@@ -1,5 +1,5 @@
 class RunLengthEncode:
-    def encode(self, s: str) -> str:
+    def encode(s: str) -> str:
         ret = ''
         
         i = 0
