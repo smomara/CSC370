@@ -1,1 +1,1 @@
-# CSC370
+# CSC370 - Concepts of Programming Languages
